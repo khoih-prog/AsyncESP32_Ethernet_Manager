@@ -96,7 +96,7 @@
   * [Async_ESP32_FSWebServer_DRD](examples/Async_ESP32_FSWebServer_DRD)
 * [Example Async_ConfigOnSwitch](#example-Async_ConfigOnSwitch)
 * [Debug Terminal Output Samples](#debug-terminal-output-samples)
-  * [1. Async_ConfigOnDoubleReset using LittleFS on ESP32_DEV with ESP32_W5500](#1-Async_ConfigOnDoubleReset-using-LittleFS-on-ESP32_DEV-with-ESP32_W5500)
+  * [1. Async_ConfigOnDoubleReset using LittleFS on ESP32_DEV with ESP32_ENC28J60](#1-Async_ConfigOnDoubleReset-using-LittleFS-on-ESP32_DEV-with-ESP32_ENC28J60)
   * [2. Async_ConfigOnSwichFS using LittleFS on ESP32_DEV with ESP32_W5500](#2-Async_ConfigOnSwichFS-using-LittleFS-on-ESP32_DEV-with-ESP32_W5500)
   * [3. Async_ESP32_FSWebServer_DRD using LittleFS on ESP32_DEV with ESP32_W5500](#3-Async_ESP32_FSWebServer_DRD-using-LittleFS-on-ESP32_DEV-with-ESP32_W5500)
 * [Debug](#debug)
